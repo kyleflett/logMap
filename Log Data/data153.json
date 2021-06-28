@@ -1,0 +1,2672 @@
+{
+    "info": {
+        "Red": {
+            "score": 5
+        },
+        "Blue": {
+            "score": 1
+        },
+        "rounds": [
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 14,
+                    "damage": 4029,
+                    "ubers": 1,
+                    "score": 1
+                },
+                "Blue": {
+                    "kills": 7,
+                    "damage": 2825,
+                    "ubers": 1,
+                    "score": 0
+                },
+                "events": [
+                    {
+                        "type": "pointcap",
+                        "time": 66,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "charge",
+                        "time": 100,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 101,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 112,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:13589648"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 113,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:0:12578869"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 128,
+                        "team": "Red",
+                        "point": 2
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 131,
+                        "team": "Red",
+                        "point": 1
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 131,
+                        "team": "Red"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:46456": {
+                        "kills": 4,
+                        "dmg": 749
+                    },
+                    "STEAM_0:1:13589648": {
+                        "kills": 2,
+                        "dmg": 629
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 3,
+                        "dmg": 885
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 3,
+                        "dmg": 785
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 1,
+                        "dmg": 869
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 0,
+                        "dmg": 60
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 3,
+                        "dmg": 493
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 1,
+                        "dmg": 192
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 2,
+                        "dmg": 454
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 0,
+                        "dmg": 487
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 0,
+                        "dmg": 426
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 0,
+                        "dmg": 136
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 2,
+                        "dmg": 476
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 0,
+                        "dmg": 213
+                    }
+                },
+                "length": 131
+            },
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 44,
+                    "damage": 15378,
+                    "ubers": 4,
+                    "score": 2
+                },
+                "Blue": {
+                    "kills": 32,
+                    "damage": 12003,
+                    "ubers": 4,
+                    "score": 0
+                },
+                "events": [
+                    {
+                        "type": "medic_death",
+                        "time": 35,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:0:41901846"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 36,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:22350417"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 61,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 93,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:16508410"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 131,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 152,
+                        "team": "Blue",
+                        "point": 3
+                    },
+                    {
+                        "type": "charge",
+                        "time": 186,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 224,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 265,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 275,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:19716523"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 284,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 358,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 377,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 383,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:46456"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 404,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 440,
+                        "team": "Red",
+                        "point": 2
+                    },
+                    {
+                        "type": "charge",
+                        "time": 461,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 470,
+                        "team": "Red",
+                        "point": 1
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 470,
+                        "team": "Red"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:13589648": {
+                        "kills": 5,
+                        "dmg": 2037
+                    },
+                    "STEAM_0:1:46456": {
+                        "kills": 12,
+                        "dmg": 2766
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 7,
+                        "dmg": 1242
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 4,
+                        "dmg": 1276
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 3,
+                        "dmg": 1005
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 7,
+                        "dmg": 2677
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 2,
+                        "dmg": 835
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 2,
+                        "dmg": 787
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 4,
+                        "dmg": 1877
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 1,
+                        "dmg": 650
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 9,
+                        "dmg": 4130
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 3,
+                        "dmg": 1083
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 6,
+                        "dmg": 1623
+                    },
+                    "STEAM_0:0:2620984": {
+                        "kills": 1,
+                        "dmg": 858
+                    },
+                    "STEAM_0:1:16508410": {
+                        "kills": 4,
+                        "dmg": 1310
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 6,
+                        "dmg": 2990
+                    },
+                    "STEAM_0:0:21636528": {
+                        "kills": 0,
+                        "dmg": 105
+                    },
+                    "STEAM_0:0:20488879": {
+                        "kills": 0,
+                        "dmg": 130
+                    }
+                },
+                "length": 470
+            },
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 33,
+                    "damage": 10766,
+                    "ubers": 1,
+                    "score": 3
+                },
+                "Blue": {
+                    "kills": 31,
+                    "damage": 9629,
+                    "ubers": 3,
+                    "score": 0
+                },
+                "events": [
+                    {
+                        "type": "charge",
+                        "time": 62,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 72,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 157,
+                        "team": "Red",
+                        "point": 2
+                    },
+                    {
+                        "type": "charge",
+                        "time": 164,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 166,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 175,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:13589648"
+                    },
+                    {
+                        "type": "drop",
+                        "time": 268,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 268,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:0:8615519"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 269,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 302,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:46456"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 310,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:16508410"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 333,
+                        "team": "Red",
+                        "point": 1
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 333,
+                        "team": "Red"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:46456": {
+                        "kills": 7,
+                        "dmg": 1895
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 3,
+                        "dmg": 580
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 0,
+                        "dmg": 829
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 4,
+                        "dmg": 1557
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 5,
+                        "dmg": 1138
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 4,
+                        "dmg": 954
+                    },
+                    "STEAM_0:1:13589648": {
+                        "kills": 3,
+                        "dmg": 841
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 8,
+                        "dmg": 2084
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 3,
+                        "dmg": 1558
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 7,
+                        "dmg": 1590
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 2,
+                        "dmg": 1920
+                    },
+                    "STEAM_0:1:16508410": {
+                        "kills": 3,
+                        "dmg": 483
+                    },
+                    "STEAM_0:0:2620984": {
+                        "kills": 3,
+                        "dmg": 789
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 7,
+                        "dmg": 1874
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 2,
+                        "dmg": 1190
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 3,
+                        "dmg": 1113
+                    }
+                },
+                "length": 333
+            },
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 20,
+                    "damage": 5577,
+                    "ubers": 1,
+                    "score": 4
+                },
+                "Blue": {
+                    "kills": 12,
+                    "damage": 4468,
+                    "ubers": 0,
+                    "score": 0
+                },
+                "events": [
+                    {
+                        "type": "drop",
+                        "time": 55,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 55,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:0:16812055"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 77,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "charge",
+                        "time": 78,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 103,
+                        "team": "Red",
+                        "point": 2
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 132,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:22350417"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 135,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:0:24171330"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 148,
+                        "team": "Red",
+                        "point": 1
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 148,
+                        "team": "Red"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:13589648": {
+                        "kills": 4,
+                        "dmg": 783
+                    },
+                    "STEAM_0:1:46456": {
+                        "kills": 2,
+                        "dmg": 813
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 2,
+                        "dmg": 632
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 4,
+                        "dmg": 953
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 4,
+                        "dmg": 917
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 3,
+                        "dmg": 569
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 3,
+                        "dmg": 812
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 0,
+                        "dmg": 795
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 1,
+                        "dmg": 568
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 2,
+                        "dmg": 545
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 2,
+                        "dmg": 335
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 3,
+                        "dmg": 636
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 0,
+                        "dmg": 493
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 1,
+                        "dmg": 650
+                    },
+                    "STEAM_0:0:2620984": {
+                        "kills": 1,
+                        "dmg": 429
+                    },
+                    "STEAM_0:1:16508410": {
+                        "kills": 0,
+                        "dmg": 50
+                    },
+                    "STEAM_0:0:20488879": {
+                        "kills": 0,
+                        "dmg": 65
+                    }
+                },
+                "length": 148
+            },
+            {
+                "winner": "Blue",
+                "Red": {
+                    "kills": 49,
+                    "damage": 18106,
+                    "ubers": 4,
+                    "score": 4
+                },
+                "Blue": {
+                    "kills": 48,
+                    "damage": 15601,
+                    "ubers": 4,
+                    "score": 1
+                },
+                "events": [
+                    {
+                        "type": "pointcap",
+                        "time": 68,
+                        "team": "Blue",
+                        "point": 3
+                    },
+                    {
+                        "type": "charge",
+                        "time": 104,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 119,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 161,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 203,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 224,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:0:41901846"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 255,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 286,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:0:16445946"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 326,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 343,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:22350417"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 361,
+                        "team": "Blue",
+                        "point": 4
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 363,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:16508410"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 433,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 447,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:1:17788471"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 448,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 452,
+                        "team": "Blue",
+                        "point": 5
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 452,
+                        "team": "Blue"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:13589648": {
+                        "kills": 11,
+                        "dmg": 2781
+                    },
+                    "STEAM_0:1:46456": {
+                        "kills": 11,
+                        "dmg": 2245
+                    },
+                    "STEAM_0:0:2620984": {
+                        "kills": 2,
+                        "dmg": 2471
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 5,
+                        "dmg": 2736
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 2,
+                        "dmg": 1702
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 9,
+                        "dmg": 2396
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 3,
+                        "dmg": 1720
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 4,
+                        "dmg": 1645
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 10,
+                        "dmg": 3187
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 7,
+                        "dmg": 2095
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 4,
+                        "dmg": 1518
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 4,
+                        "dmg": 941
+                    },
+                    "STEAM_0:1:16508410": {
+                        "kills": 4,
+                        "dmg": 1593
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 7,
+                        "dmg": 1873
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 8,
+                        "dmg": 2205
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 6,
+                        "dmg": 2430
+                    },
+                    "STEAM_0:0:20488879": {
+                        "kills": 0,
+                        "dmg": 169
+                    }
+                },
+                "length": 452
+            },
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 33,
+                    "damage": 8711,
+                    "ubers": 3,
+                    "score": 5
+                },
+                "Blue": {
+                    "kills": 18,
+                    "damage": 6944,
+                    "ubers": 1,
+                    "score": 1
+                },
+                "events": [
+                    {
+                        "type": "medic_death",
+                        "time": 33,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:7869458"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 45,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 60,
+                        "team": "Red",
+                        "point": 3
+                    },
+                    {
+                        "type": "charge",
+                        "time": 102,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "charge",
+                        "time": 129,
+                        "steamid": "STEAM_0:0:21636528",
+                        "team": "Blue"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 129,
+                        "team": "Red",
+                        "steamid": "STEAM_0:0:20488879",
+                        "killer": "STEAM_0:0:41901846"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 142,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:0:16812055"
+                    },
+                    {
+                        "type": "medic_death",
+                        "time": 200,
+                        "team": "Blue",
+                        "steamid": "STEAM_0:0:21636528",
+                        "killer": "STEAM_0:1:16662205"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 223,
+                        "team": "Red",
+                        "point": 2
+                    },
+                    {
+                        "type": "charge",
+                        "time": 228,
+                        "steamid": "STEAM_0:0:20488879",
+                        "team": "Red"
+                    },
+                    {
+                        "type": "pointcap",
+                        "time": 233,
+                        "team": "Red",
+                        "point": 1
+                    },
+                    {
+                        "type": "round_win",
+                        "time": 233,
+                        "team": "Red"
+                    }
+                ],
+                "players": {
+                    "STEAM_0:1:13589648": {
+                        "kills": 1,
+                        "dmg": 696
+                    },
+                    "STEAM_0:1:46456": {
+                        "kills": 8,
+                        "dmg": 1664
+                    },
+                    "STEAM_0:0:16445946": {
+                        "kills": 2,
+                        "dmg": 800
+                    },
+                    "STEAM_0:0:8615519": {
+                        "kills": 1,
+                        "dmg": 1256
+                    },
+                    "STEAM_0:0:16812055": {
+                        "kills": 4,
+                        "dmg": 991
+                    },
+                    "STEAM_0:1:19716523": {
+                        "kills": 3,
+                        "dmg": 793
+                    },
+                    "STEAM_0:1:7869458": {
+                        "kills": 3,
+                        "dmg": 475
+                    },
+                    "STEAM_0:1:16662205": {
+                        "kills": 9,
+                        "dmg": 2130
+                    },
+                    "STEAM_0:0:21991095": {
+                        "kills": 4,
+                        "dmg": 1109
+                    },
+                    "STEAM_0:0:24171330": {
+                        "kills": 3,
+                        "dmg": 1000
+                    },
+                    "STEAM_0:1:17788471": {
+                        "kills": 3,
+                        "dmg": 949
+                    },
+                    "STEAM_0:1:16508410": {
+                        "kills": 0,
+                        "dmg": 189
+                    },
+                    "STEAM_0:0:12578869": {
+                        "kills": 3,
+                        "dmg": 1351
+                    },
+                    "STEAM_0:1:22350417": {
+                        "kills": 0,
+                        "dmg": 312
+                    },
+                    "STEAM_0:0:2620984": {
+                        "kills": 4,
+                        "dmg": 899
+                    },
+                    "STEAM_0:0:41901846": {
+                        "kills": 3,
+                        "dmg": 952
+                    },
+                    "STEAM_0:0:20488879": {
+                        "kills": 0,
+                        "dmg": 89
+                    }
+                },
+                "length": 233
+            },
+            {
+                "winner": "Red",
+                "Red": {
+                    "kills": 0,
+                    "damage": 0,
+                    "ubers": 0,
+                    "score": 5
+                },
+                "Blue": {
+                    "kills": 0,
+                    "damage": 0,
+                    "ubers": 0,
+                    "score": 1
+                },
+                "events": [
+                    {
+                        "type": "round_win",
+                        "time": 5,
+                        "team": "Red"
+                    }
+                ],
+                "players": {},
+                "length": 5
+            }
+        ],
+        "total_length": 1772,
+        "supplemental": true,
+        "hasIntel": false,
+        "hasCP": true,
+        "hasBS": true,
+        "hasKS": true,
+        "hasHS": true,
+        "hasHP": true,
+        "map": "granary",
+        "title": "mix v lumerjacks",
+        "date": 1354049883,
+        "uploader": {
+            "id": "76561197976004645",
+            "name": "yonus",
+            "info": null
+        }
+    },
+    "names": {
+        "STEAM_0:0:21636528": "Normaister",
+        "STEAM_0:0:16445946": "korv",
+        "STEAM_0:0:20488879": "BubbleBobbler. QUACK! (Q)<",
+        "STEAM_0:1:46456": "Lazybear_itsallgood",
+        "STEAM_0:1:13589648": "Farbror.Jimmi",
+        "STEAM_0:0:8615519": "NaDa - BrokenMouse",
+        "STEAM_0:1:22350417": "faNNy_itsallgood",
+        "STEAM_0:0:41901846": "9nen.PoH",
+        "STEAM_0:1:16662205": "Ruskeydoo -ßЯҢ- (Q)<",
+        "STEAM_0:0:21991095": "Hege's Maractus",
+        "STEAM_0:1:19716523": "Swedish Santa",
+        "STEAM_0:0:2620984": "SabaSaba",
+        "STEAM_0:0:16812055": "letku",
+        "STEAM_0:0:12578869": "Sir.ДИOOВIƧ Silver Finals!",
+        "STEAM_0:1:17788471": "kolonkryss",
+        "STEAM_0:1:7869458": "yonus",
+        "STEAM_0:0:24171330": "swippy",
+        "STEAM_0:1:16508410": "UnunoctiuM"
+    },
+    "players": {
+        "STEAM_0:0:21636528": {
+            "team": "Blue",
+            "classes": [
+                "medic"
+            ],
+            "kills": 0,
+            "deaths": 11,
+            "assists": 21,
+            "kapd": "1.9",
+            "kpd": "0.0",
+            "dmg": 105,
+            "lks": 0,
+            "dapd": 9,
+            "dapm": 3,
+            "ubers": 13,
+            "drops": 1,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 7755,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 21,
+            "class_stats": [
+                {
+                    "kills": 0,
+                    "assists": 21,
+                    "deaths": 11,
+                    "dmg": 105,
+                    "total_time": 1354045308,
+                    "type": "medic"
+                }
+            ]
+        },
+        "STEAM_0:0:16445946": {
+            "team": "Red",
+            "classes": [
+                "demoman"
+            ],
+            "kills": 30,
+            "deaths": 15,
+            "assists": 8,
+            "kapd": "2.5",
+            "kpd": "2.0",
+            "dmg": 10753,
+            "lks": 5,
+            "dapd": 716,
+            "dapm": 364,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 4,
+            "ic": 0,
+            "medkits": 56,
+            "class_stats": [
+                {
+                    "kills": 30,
+                    "assists": 8,
+                    "deaths": 15,
+                    "dmg": 10609,
+                    "total_time": 1354045308,
+                    "type": "demoman"
+                }
+            ]
+        },
+        "STEAM_0:0:20488879": {
+            "team": "Red",
+            "classes": [
+                "medic"
+            ],
+            "kills": 0,
+            "deaths": 12,
+            "assists": 25,
+            "kapd": "2.1",
+            "kpd": "0.0",
+            "dmg": 453,
+            "lks": 0,
+            "dapd": 37,
+            "dapm": 15,
+            "ubers": 14,
+            "drops": 1,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 7807,
+            "cpc": 3,
+            "ic": 0,
+            "medkits": 22,
+            "class_stats": [
+                {
+                    "kills": 0,
+                    "assists": 25,
+                    "deaths": 12,
+                    "dmg": 453,
+                    "total_time": 1354045308,
+                    "type": "medic"
+                }
+            ]
+        },
+        "STEAM_0:1:46456": {
+            "team": "Red",
+            "classes": [
+                "scout"
+            ],
+            "kills": 44,
+            "deaths": 26,
+            "assists": 11,
+            "kapd": "2.1",
+            "kpd": "1.7",
+            "dmg": 10132,
+            "lks": 5,
+            "dapd": 389,
+            "dapm": 343,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 9,
+            "ic": 0,
+            "medkits": 29,
+            "class_stats": [
+                {
+                    "kills": 44,
+                    "assists": 11,
+                    "deaths": 25,
+                    "dmg": 9967,
+                    "total_time": 1354045307,
+                    "type": "scout"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 1,
+                    "dmg": 165,
+                    "total_time": 0,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:13589648": {
+            "team": "Blue",
+            "classes": [
+                "scout"
+            ],
+            "kills": 26,
+            "deaths": 30,
+            "assists": 12,
+            "kapd": "1.3",
+            "kpd": "0.9",
+            "dmg": 7767,
+            "lks": 4,
+            "dapd": 258,
+            "dapm": 262,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 1,
+            "ic": 0,
+            "medkits": 23,
+            "class_stats": [
+                {
+                    "kills": 26,
+                    "assists": 11,
+                    "deaths": 30,
+                    "dmg": 7513,
+                    "total_time": 1354045308,
+                    "type": "scout"
+                },
+                {
+                    "kills": 0,
+                    "assists": 1,
+                    "deaths": 0,
+                    "dmg": 254,
+                    "total_time": 0,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:0:8615519": {
+            "team": "Blue",
+            "classes": [
+                "demoman"
+            ],
+            "kills": 16,
+            "deaths": 21,
+            "assists": 6,
+            "kapd": "1.0",
+            "kpd": "0.8",
+            "dmg": 9491,
+            "lks": 5,
+            "dapd": 451,
+            "dapm": 321,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 1,
+            "ic": 0,
+            "medkits": 23,
+            "class_stats": [
+                {
+                    "kills": 16,
+                    "assists": 6,
+                    "deaths": 21,
+                    "dmg": 9378,
+                    "total_time": 1354045308,
+                    "type": "demoman"
+                }
+            ]
+        },
+        "STEAM_0:1:22350417": {
+            "team": "Red",
+            "classes": [
+                "sniper"
+            ],
+            "kills": 18,
+            "deaths": 17,
+            "assists": 9,
+            "kapd": "1.6",
+            "kpd": "1.1",
+            "dmg": 6522,
+            "lks": 6,
+            "dapd": 383,
+            "dapm": 220,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 15,
+            "heal": 0,
+            "cpc": 4,
+            "ic": 0,
+            "medkits": 16,
+            "class_stats": [
+                {
+                    "kills": 18,
+                    "assists": 9,
+                    "deaths": 17,
+                    "dmg": 6087,
+                    "total_time": 1354045307,
+                    "type": "sniper"
+                }
+            ]
+        },
+        "STEAM_0:0:41901846": {
+            "team": "Blue",
+            "classes": [
+                "sniper"
+            ],
+            "kills": 17,
+            "deaths": 26,
+            "assists": 3,
+            "kapd": "0.8",
+            "kpd": "0.7",
+            "dmg": 6030,
+            "lks": 2,
+            "dapd": 231,
+            "dapm": 204,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 12,
+            "heal": 0,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 13,
+            "class_stats": [
+                {
+                    "kills": 17,
+                    "assists": 3,
+                    "deaths": 25,
+                    "dmg": 5854,
+                    "total_time": 1354045308,
+                    "type": "sniper"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 1,
+                    "dmg": 176,
+                    "total_time": 0,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:16662205": {
+            "team": "Red",
+            "classes": [
+                "heavyweapons"
+            ],
+            "kills": 32,
+            "deaths": 11,
+            "assists": 18,
+            "kapd": "4.5",
+            "kpd": "2.9",
+            "dmg": 10078,
+            "lks": 6,
+            "dapd": 916,
+            "dapm": 341,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 3,
+            "ic": 0,
+            "medkits": 13,
+            "class_stats": [
+                {
+                    "kills": 32,
+                    "assists": 16,
+                    "deaths": 11,
+                    "dmg": 9385,
+                    "total_time": 1354045308,
+                    "type": "heavyweapons"
+                },
+                {
+                    "kills": 0,
+                    "assists": 2,
+                    "deaths": 0,
+                    "dmg": 693,
+                    "total_time": 0,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:0:21991095": {
+            "team": "Blue",
+            "classes": [
+                "soldier"
+            ],
+            "kills": 11,
+            "deaths": 30,
+            "assists": 3,
+            "kapd": "0.5",
+            "kpd": "0.4",
+            "dmg": 4840,
+            "lks": 2,
+            "dapd": 161,
+            "dapm": 163,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 0,
+            "ic": 0,
+            "medkits": 23,
+            "class_stats": [
+                {
+                    "kills": 11,
+                    "assists": 2,
+                    "deaths": 26,
+                    "dmg": 4439,
+                    "total_time": 1354045313,
+                    "type": "soldier"
+                },
+                {
+                    "kills": 0,
+                    "assists": 1,
+                    "deaths": 3,
+                    "dmg": 401,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:19716523": {
+            "team": "Blue",
+            "classes": [
+                "pyro"
+            ],
+            "kills": 21,
+            "deaths": 17,
+            "assists": 7,
+            "kapd": "1.6",
+            "kpd": "1.2",
+            "dmg": 4882,
+            "lks": 7,
+            "dapd": 287,
+            "dapm": 165,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 19,
+            "class_stats": [
+                {
+                    "kills": 21,
+                    "assists": 7,
+                    "deaths": 16,
+                    "dmg": 4593,
+                    "total_time": 1354045313,
+                    "type": "pyro"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 1,
+                    "dmg": 289,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:0:2620984": {
+            "team": "Red",
+            "classes": [
+                "spy"
+            ],
+            "kills": 11,
+            "deaths": 19,
+            "assists": 4,
+            "kapd": "0.8",
+            "kpd": "0.6",
+            "dmg": 5446,
+            "lks": 4,
+            "dapd": 286,
+            "dapm": 184,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 8,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 3,
+            "ic": 0,
+            "medkits": 11,
+            "class_stats": [
+                {
+                    "kills": 11,
+                    "assists": 4,
+                    "deaths": 18,
+                    "dmg": 4916,
+                    "total_time": 1354045310,
+                    "type": "spy"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 1,
+                    "dmg": 530,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:0:16812055": {
+            "team": "Red",
+            "classes": [
+                "soldier"
+            ],
+            "kills": 25,
+            "deaths": 19,
+            "assists": 6,
+            "kapd": "1.6",
+            "kpd": "1.3",
+            "dmg": 7138,
+            "lks": 5,
+            "dapd": 375,
+            "dapm": 241,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 7,
+            "ic": 0,
+            "medkits": 55,
+            "class_stats": [
+                {
+                    "kills": 25,
+                    "assists": 6,
+                    "deaths": 19,
+                    "dmg": 6946,
+                    "total_time": 1354045308,
+                    "type": "soldier"
+                }
+            ]
+        },
+        "STEAM_0:0:12578869": {
+            "team": "Red",
+            "classes": [
+                "engineer"
+            ],
+            "kills": 14,
+            "deaths": 14,
+            "assists": 17,
+            "kapd": "2.2",
+            "kpd": "1.0",
+            "dmg": 6445,
+            "lks": 2,
+            "dapd": 460,
+            "dapm": 218,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 4,
+            "ic": 0,
+            "medkits": 11,
+            "class_stats": [
+                {
+                    "kills": 14,
+                    "assists": 16,
+                    "deaths": 14,
+                    "dmg": 6156,
+                    "total_time": 1354045308,
+                    "type": "engineer"
+                },
+                {
+                    "kills": 0,
+                    "assists": 1,
+                    "deaths": 0,
+                    "dmg": 289,
+                    "total_time": 0,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:17788471": {
+            "team": "Blue",
+            "classes": [
+                "engineer"
+            ],
+            "kills": 20,
+            "deaths": 17,
+            "assists": 4,
+            "kapd": "1.4",
+            "kpd": "1.2",
+            "dmg": 6629,
+            "lks": 6,
+            "dapd": 389,
+            "dapm": 224,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 62,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 29,
+            "class_stats": [
+                {
+                    "kills": 20,
+                    "assists": 4,
+                    "deaths": 15,
+                    "dmg": 6028,
+                    "total_time": 1354045313,
+                    "type": "engineer"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 2,
+                    "dmg": 601,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:7869458": {
+            "team": "Red",
+            "classes": [
+                "pyro"
+            ],
+            "kills": 19,
+            "deaths": 15,
+            "assists": 13,
+            "kapd": "2.1",
+            "kpd": "1.3",
+            "dmg": 5600,
+            "lks": 4,
+            "dapd": 373,
+            "dapm": 189,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 4,
+            "ic": 0,
+            "medkits": 18,
+            "class_stats": [
+                {
+                    "kills": 19,
+                    "assists": 10,
+                    "deaths": 15,
+                    "dmg": 4969,
+                    "total_time": 1354045313,
+                    "type": "pyro"
+                },
+                {
+                    "kills": 0,
+                    "assists": 3,
+                    "deaths": 0,
+                    "dmg": 631,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:0:24171330": {
+            "team": "Blue",
+            "classes": [
+                "heavyweapons"
+            ],
+            "kills": 26,
+            "deaths": 18,
+            "assists": 5,
+            "kapd": "1.7",
+            "kpd": "1.4",
+            "dmg": 8101,
+            "lks": 3,
+            "dapd": 450,
+            "dapm": 274,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 0,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 12,
+            "class_stats": [
+                {
+                    "kills": 26,
+                    "assists": 2,
+                    "deaths": 16,
+                    "dmg": 7247,
+                    "total_time": 1354045313,
+                    "type": "heavyweapons"
+                },
+                {
+                    "kills": 0,
+                    "assists": 3,
+                    "deaths": 2,
+                    "dmg": 854,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        },
+        "STEAM_0:1:16508410": {
+            "team": "Blue",
+            "classes": [
+                "spy"
+            ],
+            "kills": 11,
+            "deaths": 24,
+            "assists": 3,
+            "kapd": "0.6",
+            "kpd": "0.5",
+            "dmg": 3625,
+            "lks": 2,
+            "dapd": 151,
+            "dapm": 122,
+            "ubers": 0,
+            "drops": 0,
+            "backstabs": 10,
+            "headshots": 0,
+            "heal": 0,
+            "cpc": 2,
+            "ic": 0,
+            "medkits": 12,
+            "class_stats": [
+                {
+                    "kills": 11,
+                    "assists": 3,
+                    "deaths": 21,
+                    "dmg": 3325,
+                    "total_time": 1354045313,
+                    "type": "spy"
+                },
+                {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 3,
+                    "dmg": 300,
+                    "total_time": 1354043667,
+                    "type": ""
+                }
+            ]
+        }
+    },
+    "classkills": {
+        "STEAM_0:0:8615519": {
+            "": 1,
+            "heavyweapons": 1,
+            "engineer": 1,
+            "scout": 3,
+            "sniper": 3,
+            "demoman": 2,
+            "spy": 1,
+            "soldier": 2,
+            "pyro": 1,
+            "medic": 1
+        },
+        "STEAM_0:1:22350417": {
+            "": 2,
+            "demoman": 3,
+            "medic": 3,
+            "pyro": 3,
+            "sniper": 4,
+            "heavyweapons": 1,
+            "scout": 2
+        },
+        "STEAM_0:1:13589648": {
+            "": 1,
+            "medic": 2,
+            "scout": 4,
+            "soldier": 4,
+            "spy": 4,
+            "pyro": 4,
+            "sniper": 1,
+            "demoman": 5,
+            "heavyweapons": 1
+        },
+        "STEAM_0:0:16445946": {
+            "": 3,
+            "sniper": 3,
+            "soldier": 9,
+            "scout": 4,
+            "demoman": 3,
+            "heavyweapons": 3,
+            "spy": 1,
+            "engineer": 2,
+            "medic": 1,
+            "pyro": 1
+        },
+        "STEAM_0:0:16812055": {
+            "": 2,
+            "scout": 6,
+            "spy": 2,
+            "sniper": 4,
+            "soldier": 2,
+            "engineer": 3,
+            "medic": 2,
+            "demoman": 3,
+            "pyro": 1
+        },
+        "STEAM_0:0:41901846": {
+            "demoman": 2,
+            "soldier": 3,
+            "medic": 3,
+            "sniper": 3,
+            "scout": 2,
+            "spy": 1,
+            "heavyweapons": 2,
+            "pyro": 1
+        },
+        "STEAM_0:1:46456": {
+            "scout": 8,
+            "sniper": 4,
+            "": 1,
+            "demoman": 6,
+            "spy": 4,
+            "engineer": 4,
+            "soldier": 7,
+            "medic": 2,
+            "heavyweapons": 5,
+            "pyro": 3
+        },
+        "STEAM_0:1:16662205": {
+            "": 1,
+            "sniper": 3,
+            "spy": 4,
+            "scout": 5,
+            "pyro": 5,
+            "heavyweapons": 5,
+            "demoman": 3,
+            "soldier": 4,
+            "engineer": 1,
+            "medic": 1
+        },
+        "STEAM_0:0:12578869": {
+            "": 1,
+            "medic": 1,
+            "scout": 4,
+            "soldier": 2,
+            "spy": 2,
+            "engineer": 1,
+            "demoman": 1,
+            "sniper": 1,
+            "pyro": 1
+        },
+        "STEAM_0:1:19716523": {
+            "scout": 6,
+            "sniper": 5,
+            "medic": 1,
+            "spy": 3,
+            "engineer": 1,
+            "demoman": 1,
+            "pyro": 1,
+            "soldier": 3
+        },
+        "STEAM_0:1:7869458": {
+            "": 1,
+            "spy": 7,
+            "scout": 1,
+            "heavyweapons": 1,
+            "engineer": 3,
+            "pyro": 1,
+            "sniper": 3,
+            "soldier": 1,
+            "medic": 1
+        },
+        "STEAM_0:0:2620984": {
+            "": 1,
+            "sniper": 3,
+            "spy": 1,
+            "demoman": 2,
+            "heavyweapons": 1,
+            "soldier": 1,
+            "pyro": 1,
+            "engineer": 1
+        },
+        "STEAM_0:1:17788471": {
+            "spy": 7,
+            "soldier": 3,
+            "scout": 4,
+            "engineer": 3,
+            "pyro": 1,
+            "medic": 1,
+            "heavyweapons": 1
+        },
+        "STEAM_0:1:16508410": {
+            "medic": 3,
+            "sniper": 2,
+            "engineer": 2,
+            "heavyweapons": 2,
+            "soldier": 1,
+            "spy": 1
+        },
+        "STEAM_0:0:21991095": {
+            "pyro": 4,
+            "heavyweapons": 2,
+            "scout": 1,
+            "sniper": 2,
+            "engineer": 1,
+            "demoman": 1
+        },
+        "STEAM_0:0:24171330": {
+            "engineer": 6,
+            "scout": 5,
+            "pyro": 3,
+            "soldier": 3,
+            "demoman": 4,
+            "heavyweapons": 2,
+            "medic": 1,
+            "spy": 1,
+            "sniper": 1
+        }
+    },
+    "classdeaths": {
+        "STEAM_0:1:46456": {
+            "demoman": 4,
+            "pyro": 6,
+            "scout": 4,
+            "heavyweapons": 5,
+            "engineer": 4,
+            "sniper": 2,
+            "soldier": 1
+        },
+        "STEAM_0:0:41901846": {
+            "sniper": 5,
+            "scout": 4,
+            "heavyweapons": 3,
+            "demoman": 3,
+            "soldier": 4,
+            "spy": 3,
+            "pyro": 3,
+            "engineer": 1
+        },
+        "STEAM_0:0:2620984": {
+            "scout": 5,
+            "engineer": 7,
+            "demoman": 1,
+            "pyro": 3,
+            "spy": 1,
+            "heavyweapons": 1,
+            "sniper": 1
+        },
+        "STEAM_0:0:21991095": {
+            "demoman": 10,
+            "sniper": 1,
+            "soldier": 3,
+            "engineer": 2,
+            "scout": 7,
+            "heavyweapons": 4,
+            "pyro": 1,
+            "spy": 1
+        },
+        "STEAM_0:1:17788471": {
+            "soldier": 4,
+            "scout": 5,
+            "engineer": 1,
+            "pyro": 3,
+            "demoman": 2,
+            "heavyweapons": 1,
+            "spy": 1
+        },
+        "STEAM_0:1:16508410": {
+            "demoman": 3,
+            "pyro": 8,
+            "heavyweapons": 4,
+            "scout": 4,
+            "soldier": 2,
+            "engineer": 2,
+            "spy": 1
+        },
+        "STEAM_0:0:16445946": {
+            "sniper": 2,
+            "demoman": 2,
+            "heavyweapons": 4,
+            "pyro": 1,
+            "scout": 5,
+            "soldier": 1
+        },
+        "STEAM_0:1:13589648": {
+            "scout": 8,
+            "engineer": 4,
+            "soldier": 6,
+            "demoman": 4,
+            "heavyweapons": 5,
+            "pyro": 1,
+            "sniper": 2
+        },
+        "STEAM_0:0:16812055": {
+            "sniper": 3,
+            "engineer": 3,
+            "scout": 4,
+            "heavyweapons": 3,
+            "demoman": 2,
+            "spy": 1,
+            "pyro": 3
+        },
+        "STEAM_0:1:19716523": {
+            "heavyweapons": 6,
+            "sniper": 3,
+            "scout": 3,
+            "pyro": 1,
+            "soldier": 1,
+            "demoman": 1,
+            "spy": 1,
+            "engineer": 1
+        },
+        "STEAM_0:1:16662205": {
+            "demoman": 1,
+            "soldier": 2,
+            "spy": 2,
+            "heavyweapons": 2,
+            "sniper": 2,
+            "scout": 1,
+            "engineer": 1
+        },
+        "STEAM_0:0:24171330": {
+            "engineer": 1,
+            "spy": 2,
+            "sniper": 1,
+            "heavyweapons": 5,
+            "scout": 5,
+            "pyro": 1,
+            "demoman": 3
+        },
+        "STEAM_0:0:20488879": {
+            "scout": 2,
+            "sniper": 3,
+            "spy": 3,
+            "pyro": 1,
+            "demoman": 1,
+            "heavyweapons": 1,
+            "engineer": 1
+        },
+        "STEAM_0:0:21636528": {
+            "engineer": 1,
+            "sniper": 3,
+            "scout": 2,
+            "soldier": 2,
+            "demoman": 1,
+            "pyro": 1,
+            "heavyweapons": 1
+        },
+        "STEAM_0:0:12578869": {
+            "demoman": 1,
+            "heavyweapons": 6,
+            "spy": 2,
+            "pyro": 1,
+            "engineer": 3,
+            "soldier": 1
+        },
+        "STEAM_0:0:8615519": {
+            "sniper": 3,
+            "scout": 6,
+            "demoman": 3,
+            "heavyweapons": 3,
+            "spy": 2,
+            "engineer": 1,
+            "soldier": 3
+        },
+        "STEAM_0:1:22350417": {
+            "pyro": 5,
+            "spy": 2,
+            "demoman": 3,
+            "sniper": 3,
+            "scout": 1,
+            "soldier": 2,
+            "heavyweapons": 1
+        },
+        "STEAM_0:1:7869458": {
+            "soldier": 4,
+            "scout": 4,
+            "heavyweapons": 3,
+            "demoman": 1,
+            "engineer": 1,
+            "pyro": 1,
+            "sniper": 1
+        }
+    },
+    "healspread": {
+        "STEAM_0:0:21636528": {
+            "STEAM_0:0:8615519": 2316,
+            "STEAM_0:0:21991095": 671,
+            "STEAM_0:1:19716523": 588,
+            "STEAM_0:1:13589648": 326,
+            "STEAM_0:0:24171330": 2569,
+            "STEAM_0:0:41901846": 965,
+            "STEAM_0:1:17788471": 320
+        },
+        "STEAM_0:0:20488879": {
+            "STEAM_0:0:16812055": 1593,
+            "STEAM_0:1:22350417": 384,
+            "STEAM_0:0:12578869": 966,
+            "STEAM_0:1:16662205": 2369,
+            "STEAM_0:1:7869458": 752,
+            "STEAM_0:0:16445946": 1491,
+            "STEAM_0:1:46456": 252
+        }
+    },
+    "chat": [
+        {
+            "name": "Console",
+            "time": 1354043316,
+            "steamid": "Console",
+            "msg": "ETF2L config (2012-09-03) loaded."
+        },
+        {
+            "name": "Console",
+            "time": 1354043316,
+            "steamid": "Console",
+            "msg": "* Please check that the settings are correct for this game mode!"
+        },
+        {
+            "name": "Console",
+            "time": 1354043316,
+            "steamid": "Console",
+            "msg": "* You must record POV demos and take screenshots of all results."
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354043326,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": "thanks"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354043350,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "now I've put on my glasses"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354043355,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "so I'm at your level bobbler"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354043365,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "do you know your prescription uno?"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354043369,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "doing etf2l style"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354043369,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "nah"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354043385,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "my left eye is +6.25"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354043402,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "I have crappy vision that's all I know"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354043403,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "so it does not exist"
+        },
+        {
+            "name": "Sir.ДИOOВIƧ Silver Finals!",
+            "time": 1354043424,
+            "steamid": "STEAM_0:0:12578869",
+            "msg": "Idk all that stuff but I can see 80% on the left eye and 40% on the right eye, weird"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354043454,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": "My eyesight is pretty bad and keeps getting worse and glasses aren't helping as much as they should :c"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354043465,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "use lasers"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354043469,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "Might help"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354043481,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": "Pretty much the next step if it gets worse in next check up"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354043482,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": "use pomson you mean?"
+        },
+        {
+            "name": "Sir.ДИOOВIƧ Silver Finals!",
+            "time": 1354043483,
+            "steamid": "STEAM_0:0:12578869",
+            "msg": "yeah fire lasers at your eyes"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354043489,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "or operate new biolenses"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354043497,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": "pomson on eyes, fixes everything"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354043499,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": "ZAP ZAP!"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354043707,
+            "steamid": "STEAM_0:1:46456",
+            "msg": ":D"
+        },
+        {
+            "name": "NaDa - BrokenMouse",
+            "time": 1354043714,
+            "steamid": "STEAM_0:0:8615519",
+            "msg": ":)"
+        },
+        {
+            "name": "9nen.PoH",
+            "time": 1354043989,
+            "steamid": "STEAM_0:0:41901846",
+            "msg": "Funny how you have a fucking scout killing everything"
+        },
+        {
+            "name": "9nen.PoH",
+            "time": 1354043991,
+            "steamid": "STEAM_0:0:41901846",
+            "msg": "Me mad"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354044005,
+            "steamid": "STEAM_0:1:46456",
+            "msg": "<3"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354044009,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": ":C"
+        },
+        {
+            "name": "Farbror.Jimmi",
+            "time": 1354044013,
+            "steamid": "STEAM_0:1:13589648",
+            "msg": "hehe. diiiiiickaz"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354044149,
+            "steamid": "STEAM_0:1:46456",
+            "msg": "LOL"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354044149,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "nice med backcap :D"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354044159,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "he got confused"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354044160,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": ":D"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354044262,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": ":DD"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354044346,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "how I aim?"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354044409,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "dat range"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354044487,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": ":D"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354044551,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "nice reflect"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354044560,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "nice reflect santa"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354044580,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "Desperate times require desperate measures"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354044738,
+            "steamid": "STEAM_0:1:46456",
+            "msg": ".D"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354044755,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": "i dont een know what im doign right now"
+        },
+        {
+            "name": "faNNy_itsallgood",
+            "time": 1354044867,
+            "steamid": "STEAM_0:1:22350417",
+            "msg": "nice shot"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354044879,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "any shot where I die isn't very nice"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354044883,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": ":D"
+        },
+        {
+            "name": "faNNy_itsallgood",
+            "time": 1354044886,
+            "steamid": "STEAM_0:1:22350417",
+            "msg": ":)"
+        },
+        {
+            "name": "faNNy_itsallgood",
+            "time": 1354044892,
+            "steamid": "STEAM_0:1:22350417",
+            "msg": "you should get used to it"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354044944,
+            "steamid": "STEAM_0:1:46456",
+            "msg": "i was a distraction :D"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354044953,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "A dead distraction"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354044957,
+            "steamid": "STEAM_0:1:46456",
+            "msg": "^^"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354045003,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "GG"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354045006,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "gg we lose :("
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354045009,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "engi backcap the best"
+        },
+        {
+            "name": "Farbror.Jimmi",
+            "time": 1354045021,
+            "steamid": "STEAM_0:1:13589648",
+            "msg": "nce"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354045032,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": ";D"
+        },
+        {
+            "name": "yonus",
+            "time": 1354045046,
+            "steamid": "STEAM_0:1:7869458",
+            "msg": "awt"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354045084,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "swippy, I forgot to disguise and killed you :D"
+        },
+        {
+            "name": "Ruskeydoo -ßЯҢ- (Q)<",
+            "time": 1354045093,
+            "steamid": "STEAM_0:1:16662205",
+            "msg": "gr :)"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354045095,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "gr"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354045096,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": ":D"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354045097,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "the backap"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354045100,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": ":P"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354045286,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "FOV of ruskey should really get nerfed"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354045288,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "hards"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354045321,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": ":D"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354045321,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "gg"
+        },
+        {
+            "name": "NaDa - BrokenMouse",
+            "time": 1354045324,
+            "steamid": "STEAM_0:0:8615519",
+            "msg": "gg"
+        },
+        {
+            "name": "yonus",
+            "time": 1354045324,
+            "steamid": "STEAM_0:1:7869458",
+            "msg": ":E"
+        },
+        {
+            "name": "BubbleBobbler. QUACK! (Q)<",
+            "time": 1354045331,
+            "steamid": "STEAM_0:0:20488879",
+            "msg": "gg"
+        },
+        {
+            "name": "Farbror.Jimmi",
+            "time": 1354045331,
+            "steamid": "STEAM_0:1:13589648",
+            "msg": "gg"
+        },
+        {
+            "name": "faNNy_itsallgood",
+            "time": 1354045333,
+            "steamid": "STEAM_0:1:22350417",
+            "msg": "gg"
+        },
+        {
+            "name": "9nen.PoH",
+            "time": 1354045334,
+            "steamid": "STEAM_0:0:41901846",
+            "msg": "gg!"
+        },
+        {
+            "name": "Normaister",
+            "time": 1354045334,
+            "steamid": "STEAM_0:0:21636528",
+            "msg": "gg"
+        },
+        {
+            "name": "kolonkryss",
+            "time": 1354045336,
+            "steamid": "STEAM_0:1:17788471",
+            "msg": "gg"
+        },
+        {
+            "name": "Lazybear_itsallgood",
+            "time": 1354045336,
+            "steamid": "STEAM_0:1:46456",
+            "msg": "gg"
+        },
+        {
+            "name": "Sir.ДИOOВIƧ Silver Finals!",
+            "time": 1354045336,
+            "steamid": "STEAM_0:0:12578869",
+            "msg": "GEGE"
+        },
+        {
+            "name": "letku",
+            "time": 1354045336,
+            "steamid": "STEAM_0:0:16812055",
+            "msg": "gg"
+        },
+        {
+            "name": "Ruskeydoo -ßЯҢ- (Q)<",
+            "time": 1354045337,
+            "steamid": "STEAM_0:1:16662205",
+            "msg": "gg"
+        },
+        {
+            "name": "Sir.ДИOOВIƧ Silver Finals!",
+            "time": 1354045340,
+            "steamid": "STEAM_0:0:12578869",
+            "msg": "( ͡° ͜ʖ ͡°)"
+        },
+        {
+            "name": "SabaSaba",
+            "time": 1354045347,
+            "steamid": "STEAM_0:0:2620984",
+            "msg": "5 seconds"
+        },
+        {
+            "name": "yonus",
+            "time": 1354045360,
+            "steamid": "STEAM_0:1:7869458",
+            "msg": "gg?"
+        },
+        {
+            "name": "Hege's Maractus",
+            "time": 1354045362,
+            "steamid": "STEAM_0:0:21991095",
+            "msg": "okay so it seems recording demos makes my game a slide show"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354045367,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "If I get ricH, i WILL BUY A BIGASS SCREEN THAT GIVES ME 140 FOV"
+        },
+        {
+            "name": "yonus",
+            "time": 1354045371,
+            "steamid": "STEAM_0:1:7869458",
+            "msg": "yeap cya"
+        },
+        {
+            "name": "NaDa - BrokenMouse",
+            "time": 1354045371,
+            "steamid": "STEAM_0:0:8615519",
+            "msg": "yeah, thx for playing"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354045372,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "caps"
+        },
+        {
+            "name": "Normaister",
+            "time": 1354045376,
+            "steamid": "STEAM_0:0:21636528",
+            "msg": "bye bye"
+        },
+        {
+            "name": "Ruskeydoo -ßЯҢ- (Q)<",
+            "time": 1354045382,
+            "steamid": "STEAM_0:1:16662205",
+            "msg": "I'm on 1 screen right now"
+        },
+        {
+            "name": "Swedish Santa",
+            "time": 1354045392,
+            "steamid": "STEAM_0:1:19716523",
+            "msg": "Oh, then i am fine"
+        },
+        {
+            "name": "Ruskeydoo -ßЯҢ- (Q)<",
+            "time": 1354045396,
+            "steamid": "STEAM_0:1:16662205",
+            "msg": "bad ratio so less than widescreen ;)"
+        },
+        {
+            "name": "UnunoctiuM",
+            "time": 1354045490,
+            "steamid": "STEAM_0:1:16508410",
+            "msg": "smell ya later"
+        }
+    ],
+    "dev": {
+        "generated": 0.171,
+        "rows": 8110
+    },
+    "success": true
+}
